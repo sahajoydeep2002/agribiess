@@ -1,4 +1,4 @@
-<h1 align="center">Climate</h1>
+<h1 align="center">Agribies</h1>
 
 ![align="center"](https://github.com/sahajoydeep2002/Agribes/blob/main/Schematic%20diagrams/ezgif.com-gif-maker%20(1).gif)
 
