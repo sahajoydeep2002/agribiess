@@ -1,6 +1,6 @@
 <h1 align="center">Agribies</h1>
 
-![align="center"](https://github.com/sahajoydeep2002/Agribes/blob/main/Schematic%20diagrams/ezgif.com-gif-maker%20(1).gif)
+![align="center"](https://github.com/sahajoydeep2002/agribies/blob/main/Schematic%20diagrams/ezgif.com-gif-maker%20(1).gif)
 
 <h3 align="center"> An Agri Tech Initiative to fight against The Increasing climate change </h3>
 
